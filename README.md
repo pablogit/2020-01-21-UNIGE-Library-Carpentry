@@ -10,5 +10,5 @@ https://pablogit.github.io/2020-01-21-UNIGE-Library-Carpentry/
 
 ## More about the Carpentries
 
-[swc-site]: http://software-carpentry.org
-[lc-site]: https://librarycarpentry.org
+http://software-carpentry.org
+https://librarycarpentry.org
